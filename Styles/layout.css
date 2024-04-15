@@ -1,0 +1,51 @@
+
+.common{
+    background-color: #a9a9a9;
+    border: 2px solid #a9a9a9;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.rightbody{
+    padding: 10px;
+    right: 5px;
+    top: 114px;
+    bottom: 37px;
+    width: 480px;
+}
+
+.mainbody{
+    padding: 10px;
+    top: 114px;
+    left: 214px;
+    right: 514px;
+    bottom: 37px;
+}
+
+.leftbody{
+    padding: 10px;
+    left: 5px;
+    top: 114px;
+    bottom: 37px;
+    width: 180px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+}
+
+.singlebody {
+    padding: 20px;
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    bottom: 37px;
+}

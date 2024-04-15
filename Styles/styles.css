@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #cdd9a5;
+}
+
+.description {
+    text-align: left;
+}
+
+.title {
+    font-style: bold;
+    font-size: 26px;
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.nestedlist {
+    font-style: italic;
+    font-size: 16px;
+    color: black;
+}
+
+.listheaders{
+    font-style: bold;
+    color: darkolivegreen;
+}
